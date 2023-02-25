@@ -1,0 +1,17 @@
+theme="nord_light"
+
+[editor]
+line-number = "relative"
+mouse = false
+idle-timeout = 0
+cursorline = true
+
+[editor.file-picker]
+hidden = false
+
+[editor.indent-guides]
+render = true
+skip-levels = 1
+
+[keys.insert]
+j = { k = "normal_mode" }
